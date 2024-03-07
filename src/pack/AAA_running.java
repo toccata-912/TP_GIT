@@ -12,7 +12,7 @@ public class AAA_running {
 		System.out.println("this is my GIT TP");
 		System.out.println("I will push to github now");
 		System.out.println("chaning this so I can pull a dif version");
-		
+		System.out.println("added more stuff to it");
 		System.out.println("new");
 		JFrame frame = new JFrame();
 		JPanel panel = new JPanel();
